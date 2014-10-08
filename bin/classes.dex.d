@@ -1,0 +1,24 @@
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes.dex : \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/android/inputmethodcommon/InputMethodSettingsFragment.class \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/android/inputmethodcommon/InputMethodSettingsImpl$1.class \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/android/inputmethodcommon/InputMethodSettingsImpl.class \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/android/inputmethodcommon/InputMethodSettingsInterface.class \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/example/android/softkeyboard/BuildConfig.class \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/example/android/softkeyboard/CandidateView$1.class \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/example/android/softkeyboard/CandidateView.class \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/example/android/softkeyboard/ImePreferences$Settings.class \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/example/android/softkeyboard/ImePreferences.class \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/example/android/softkeyboard/LatinKeyboard$LatinKey.class \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/example/android/softkeyboard/LatinKeyboard.class \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/example/android/softkeyboard/LatinKeyboardView.class \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/example/android/softkeyboard/R$attr.class \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/example/android/softkeyboard/R$color.class \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/example/android/softkeyboard/R$dimen.class \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/example/android/softkeyboard/R$drawable.class \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/example/android/softkeyboard/R$id.class \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/example/android/softkeyboard/R$layout.class \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/example/android/softkeyboard/R$string.class \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/example/android/softkeyboard/R$xml.class \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/example/android/softkeyboard/R.class \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/example/android/softkeyboard/SoftKeyboard$1.class \
+/Users/akshay/Documents/Workspace/SoftKeyboard/bin/classes/com/example/android/softkeyboard/SoftKeyboard.class \
