@@ -106,12 +106,12 @@ public class SoftKeyboard extends InputMethodService
           if(action.equals("android.provider.SoftKeyboard.A")){
             System.out.println(">>>>>>>>>>>>>> KeyPressed: A");
             sendKey(104);
-            System.out.println(">>>>> D1");
-            sendKey(104);
-            System.out.println(">>>>> D2");
-            sendKey(104);
-            System.out.println(">>>>> D3");
-            sendKey(104);
+            // System.out.println(">>>>> D1");
+            // sendKey(104);
+            // System.out.println(">>>>> D2");
+            // sendKey(104);
+            // System.out.println(">>>>> D3");
+            // sendKey(104);
             System.out.println(">>>>>>>>>>>>>>>>> key Pressed");
           }
        }
@@ -531,15 +531,15 @@ public class SoftKeyboard extends InputMethodService
                 } else {
                     getCurrentInputConnection().commitText(String.valueOf((char) keyCode), 1);
                     System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>> 1");
-                    getCurrentInputConnection().commitText(String.valueOf((char) keyCode), 1);
-                    System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>> 2");
-                    getCurrentInputConnection().commitText(String.valueOf((char) keyCode), 1);
-                    System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>> 3");
-                    getCurrentInputConnection().commitText(String.valueOf((char) keyCode), 1);
-                    System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>> 4");
-                    Intent intent = new Intent();
-                    intent.setAction("android.provider.SoftKeyboard.A");
-                    sendBroadcast(intent);
+                    // getCurrentInputConnection().commitText(String.valueOf((char) keyCode), 1);
+                    // System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>> 2");
+                    // getCurrentInputConnection().commitText(String.valueOf((char) keyCode), 1);
+                    // System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>> 3");
+                    // getCurrentInputConnection().commitText(String.valueOf((char) keyCode), 1);
+                    // System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>> 4");
+                    // Intent intent = new Intent();
+                    // intent.setAction("android.provider.SoftKeyboard.A");
+                    // sendBroadcast(intent);
                 }
                 break;
         }
@@ -579,19 +579,19 @@ public class SoftKeyboard extends InputMethodService
             }
         } else {
             handleCharacter(primaryCode, keyCodes);
-            System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>> 1");
-            handleCharacter(primaryCode, keyCodes);
-            System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>> 1");
-            handleCharacter(primaryCode, keyCodes);
-            System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>> 1");
-            handleCharacter(primaryCode, keyCodes);
-            System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>> 1");
-            Intent intent = new Intent();
-            System.out.println(">>>>>>>>>>>> Made intent");
-            intent.setAction("android.provider.SoftKeyboard.A");
-            System.out.println(">>>>>>>>>>>> Defined action");
-            sendBroadcast(intent);
-            System.out.println("Fired");
+            // System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>> 1");
+            // handleCharacter(primaryCode, keyCodes);
+            // System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>> 1");
+            // handleCharacter(primaryCode, keyCodes);
+            // System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>> 1");
+            // handleCharacter(primaryCode, keyCodes);
+            // System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>> 1");
+            // Intent intent = new Intent();
+            // System.out.println(">>>>>>>>>>>> Made intent");
+            // intent.setAction("android.provider.SoftKeyboard.A");
+            // System.out.println(">>>>>>>>>>>> Defined action");
+            // sendBroadcast(intent);
+            // System.out.println("Fired");
 
         }
     }
